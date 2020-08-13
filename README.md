@@ -5,8 +5,7 @@
 ## Run game
 
 ```
-$ cd cmd/game
-$ go run *go
+$ go run cmd/game/main.go
 ```
 
 ## Sprites
